@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, html, css, php
 - 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on html and css
-- 📫 How to reach me ...
+- 📫 bilisimbilsem@gmail.com
 
 <!---
 ruya-tabiri/ruya-tabiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
