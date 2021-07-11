@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @ruya-tabiri
-- 👀 I’m interested in python, html, css, php
-- 🌱 I’m currently learning python, c++
-- 💞️ I’m looking to collaborate on html and css
-- 📫 https://github.com/ruya-tabiri
-- 📫 https://ruya-tabiri.github.io
+@ruya-tabiri adresinden ulaşabilirsiniz. İlgi alanlarım büyük veriler, yapay zeka ve python programlama. Aynı zamanda sql ve veritabanları ile de uğraşıyorum.
 
-<!---
-ruya-tabiri/ruya-tabiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Çalışmalarımı profil sayfasından bulabilirsiniz. Rüya tabirleri üzerine yapay zeka geliştiriyorum. 
 
 I interesting big data, artificial intellenge and creating
